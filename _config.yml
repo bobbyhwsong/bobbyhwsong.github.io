@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default", "air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "BHWS"
 title_separator          : "-"
-subtitle                 : "물 밖으로 나온 형어가 경험하는 세상"
-name                     : "HyungWoo Song"
+subtitle                 : "물 밖으로 나온 형어가 경험하는 세상 이야기"
+name                     : "BobbyHWSong"
 description              : "An amazing website."
 url                      : "https://bobbyhwsong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "BobbyHWSong"
+  name             : "HyungWoo Song"
   avatar           : "/assets/images/anbandegi.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"

@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "dark", "aqua", "contrast", "air", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "BHWS_practice"
+title                    : "BHWS"
 title_separator          : "-"
-subtitle                 : "물에서 나온 형어가 경험하고 기록하는 사람 사는 이야기"
+subtitle                 : "물에서 나온 형어가 경험하고 기록하는 사람 이야기"
 name                     : "BobbyHWSong"
 description              : "An amazing website."
 url                      : "https://bobbyhwsong.github.io"

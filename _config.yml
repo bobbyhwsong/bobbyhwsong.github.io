@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "HyungWoo Song"
   avatar           : "/assets/images/anbandegi.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Make It Happen"
   location         : "South Korea"
-  email            : "rotto95@snu.ac.kr"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

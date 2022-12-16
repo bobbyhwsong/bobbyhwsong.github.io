@@ -1,8 +1,34 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Introduce"
     url: /about/
   - title: "Sitemap"
     url: /sitemap/
+
+sidebar-category:
+  - title: "💻 Programming"
+    children:
+      - title: "Paper"
+        url: "/paper"
+        category: "paper"
+      - title: "Code"
+        url: "/code"
+        category: "code"
+
+  - title: "📝 Review"
+    children:
+      - title: "Movie"
+        url: "/movie"
+        category: "movie"
+      - title: "Book"
+        url: "/book"
+        category: "book"
+
+  - title: "🌴 Travel"
+    children:
+      - title: "Domestic Travel"
+        url: "/domestic"
+        category: "domestic"
+      - title: "Overseas Travel"
+        url: "/overseas"
+        category: "overseas"

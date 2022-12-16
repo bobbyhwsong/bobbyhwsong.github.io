@@ -294,3 +294,6 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar:
+        nav: "sidebar-category"
+

@@ -2,6 +2,9 @@
 layout: archive
 permalink: /about/
 title: "About"
+author_profile: true
+sidebar:
+    nav: "sidebar-category"
 # toc: true
 # toc_sticky: true
 # toc_label: "MYSELF"

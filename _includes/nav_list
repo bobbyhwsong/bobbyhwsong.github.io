@@ -37,6 +37,7 @@
         {% endif %}
       </li>
     {% endfor %}
+    <li> 기록 수: {{sum}} </li>
   </ul>
-  <li> 블로그 내 기록 수: {{sum}} </li>
+  
 </nav>
